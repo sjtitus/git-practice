@@ -7,11 +7,3 @@ console.log(`Hello Master 4!`);
 
 
 // this is a change on feature 2: here is my comment that we'll conflict
-
-// another feature3 commit
-
-// master 12
-// master 13 - master
-// master 14 
-// master  15 
-
